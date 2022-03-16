@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,Je suis Epsilon</h1>
+<h1 align="center">Hi 👋,Je suis Cheikh Sow</h1>
 <img src="https://github.com/EpsilonCoder/Wakhtane-/blob/master/epsilon2.png" width="100%"/>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=epsiloncoder&theme=radical" alt="epsiloncoder" width=100% " /></p>
