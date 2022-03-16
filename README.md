@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋,Je suis Epsilon</h1>
+<img src="https://github.com/EpsilonCoder/Wakhtane-/blob/master/epsilon2.png" width="100%"/>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=epsiloncoder&theme=radical" alt="epsiloncoder" width=100% " /></p>
 <h3 align="center">Plus sérieusement, je suis développeur, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse. Mon job est donc de créer des produits pour le web : cela peut aller d’une simple page vitrine à une application web. Je peux porter plusieurs casquettes pour le même projet, du cahier des charges du client à la conception et modélisation, en passant par le développement des API (Application Programming Interface) en back-end, la création des pages avec l’intégration du design, ou encore m’occuper de la mise en place du système et/ou des serveurs</h3>
