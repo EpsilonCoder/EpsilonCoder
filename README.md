@@ -4,8 +4,11 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=epsiloncoder&theme=radical" alt="epsiloncoder" width=100% " /></p>
 <h3 align="center">Plus sérieusement, je suis développeur, je fais de la programmation back-end et front-end, et de la configuration et gestion de serveurs. J’hésite à dire « full stack developer », terme popularisé il y a quelque temps, qui est devenu sujet à controverse. Mon job est donc de créer des produits pour le web : cela peut aller d’une simple page vitrine à une application web. Je peux porter plusieurs casquettes pour le même projet, du cahier des charges du client à la conception et modélisation, en passant par le développement des API (Application Programming Interface) en back-end, la création des pages avec l’intégration du design, ou encore m’occuper de la mise en place du système et/ou des serveurs</h3>
-
+ <p align="center">
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EpsilonCoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epsiloncoder&show_icons=true&locale=en&layout=compact&theme=radical" alt="epsiloncoder" width=100%/></p>
+ 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epsiloncoder&show_icons=true&locale=en&layout=compact&theme=radical" alt="epsiloncoder" width=100% /></p>
 
